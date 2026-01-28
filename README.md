@@ -26,8 +26,8 @@
 
 ### 🛠️ Technical Toolkit
 
-<details>
-<summary><b>Click to expand my Skill Stack</b></summary>
+<details open>
+<summary><b>Click to toggle my Skill Stack</b></summary>
 
 * **Languages:** `Python (Expert)`, `C++`, `SQL`, `JavaScript`
 * **AI/ML:** `PyTorch`, `TensorFlow`, `Scikit-learn`, `LLMs (Gemini, LangChain)`, `RAG`
@@ -47,6 +47,13 @@
 
 #### 🏗️ [KrishiSetu Backend](https://github.com/Aarshpatel12/KrishiSetu-Backend)
 > A multi-agent system utilizing **Gemini 1.5 Flash** and **Dhenu 2** for real-time plant disease detection and market pricing alerts.
+
+---
+
+### 🐍 My Contribution Snake
+<p align="center">
+  <img src="https://github.com/Aarshpatel12/Aarshpatel12/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ---
 
@@ -70,14 +77,4 @@
 <a href="https://www.linkedin.com/in/aarsh-patel-083532283/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:23ec3001@rgipt.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://leetcode.com/u/Aarshpatel1"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-</p>
-### 🐍 My Contribution Snake
-<p align="center">
-  <img src="https://github.com/Aarshpatel12/Aarshpatel12/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
-### 📊 GitHub Stats & Activity
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Aarshpatel12&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarshpatel12&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
