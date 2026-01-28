@@ -44,6 +44,6 @@ A multi-agent system utilizing **Gemini 1.5 Flash** and **Dhenu 2** for real-tim
 ---
 
 ### 📫 Connect with me
-* **LinkedIn:** [linkedin.com/in/aarsh-patel]([https://linkedin.com/in/aarsh-patel](https://www.linkedin.com/in/aarsh-patel-083532283/))
+* **LinkedIn:** [linkedin.com/in/aarsh-patel](https://www.linkedin.com/in/aarsh-patel-083532283/)
 * **Email:** 23ec3001@rgipt.ac.in
 * **LeetCode:** [Solved 350+ DSA Problems](https://leetcode.com/u/Aarshpatel1)
