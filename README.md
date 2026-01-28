@@ -71,3 +71,13 @@
 <a href="mailto:23ec3001@rgipt.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://leetcode.com/u/Aarshpatel1"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
+### 🐍 My Contribution Snake
+<p align="center">
+  <img src="https://github.com/Aarshpatel12/Aarshpatel12/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+### 📊 GitHub Stats & Activity
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Aarshpatel12&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarshpatel12&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
