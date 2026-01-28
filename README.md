@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aarshpatel12&theme=radical&no-bg=true&margin-w=15&column=4" alt="trophy" /></a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -24,7 +28,11 @@
 
 ---
 
-### 🛠️ Technical Toolkit
+### 🛠️ Technical Toolkit & Mastery
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarshpatel12&layout=compact&theme=radical&hide_border=true&langs_count=8" width="60%" />
+</p>
 
 <details open>
 <summary><b>Click to toggle my Skill Stack</b></summary>
@@ -37,38 +45,41 @@
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Featured Engineering Projects
 
-#### 🌾 [FarmFinAdvisor](https://github.com/Aarshpatel12/FarmFinAdvisor)
-> An AI-powered RAG pipeline using **LangChain** and **ChromaDB** to provide personalized financial/scheme recommendations for Indian farmers. Deployed via **FastAPI** and **Docker** on Google Cloud Run.
-
-#### 🤖 [DRDO MEMS Predictor](https://github.com/Aarshpatel12/DRDO-MEMS-SENSOR)
-> Bridging Electronics and AI to predict sensor performance characteristics, developed under the guidance of Scientist ‘F’ at SSPL.
-
-#### 🏗️ [KrishiSetu Backend](https://github.com/Aarshpatel12/KrishiSetu-Backend)
-> A multi-agent system utilizing **Gemini 1.5 Flash** and **Dhenu 2** for real-time plant disease detection and market pricing alerts.
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌾 <a href="https://github.com/Aarshpatel12/FarmFinAdvisor">FarmFinAdvisor</a></h4>
+      <p>AI-powered RAG pipeline using LangChain & ChromaDB for personalized financial recommendations. Deployed via Docker on Cloud Run.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 <a href="https://github.com/Aarshpatel12/DRDO-MEMS-SENSOR">DRDO MEMS Predictor</a></h4>
+      <p>Bridging Electronics and AI to predict sensor performance characteristics under Scientist ‘F’ at SSPL.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏗️ <a href="https://github.com/Aarshpatel12/KrishiSetu-Backend">KrishiSetu Backend</a></h4>
+      <p>Multi-agent system using Gemini 1.5 Flash for real-time plant disease detection and market pricing.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎬 <a href="https://github.com/Aarshpatel12/Movie-Recommender-System">Movie Recommender</a></h4>
+      <p>Content-based system using TMDB data, Cosine Similarity, and feature engineering on keywords/genres.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🐍 My Contribution Snake
-<p align="center">
-  <img src="https://github.com/Aarshpatel12/Aarshpatel12/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Analytics
 
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Aarshpatel12&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarshpatel12&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Aarshpatel12&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <br clear="both" />
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aarshpatel12&theme=radical&hide_border=true" width="100%" />
-</p>
 
 ---
 
