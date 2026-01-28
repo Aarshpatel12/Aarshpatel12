@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer;Electronics+Engineering+@+RGIPT;Open+Source+Contributor;DRDO+Winter+Intern" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aarshpatel12&theme=radical&no-bg=true&margin-w=15&column=4" alt="trophy" /></a>
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
