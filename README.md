@@ -15,7 +15,7 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/Aarshpatel12/Aarshpatel12/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/Aarshpatel12/Aarshpatel12/output/github-snake.svg" alt="Snake animation" />
 </p>
 
 ---
