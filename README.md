@@ -1,7 +1,7 @@
 # <p align="center">Hi, I'm Aarsh Patel 👋</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer;Electronics+Engineering+@+RGIPT;Open+Source+Contributor;DRDO+Winter+Intern" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer;Open+Source+Contributor;DRDO+Winter+Intern" alt="Typing SVG" />
 </p>
 
 
