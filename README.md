@@ -12,14 +12,35 @@
 </p>
 
 ---
-### 🐍 Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aarshpatel12/Aarshpatel12/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aarshpatel12/Aarshpatel12/output/github-snake.svg">
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Aarshpatel12/Aarshpatel12/output/github-snake.svg">
-  </picture>
-</p>
+
+### 🌟 Featured Engineering Projects
+
+<table bordercolor="#30363d">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚚 <a href="https://github.com/nimowhyca/cold-chain-logistics-FDE-Project">Cold-Chain Logistics AI Assistant</a></h3>
+      <p align="center"><i>LangGraph, Pinecone, MSSQL, AWS EC2</i></p>
+      <br>
+      <p>A ReAct agent translating natural language to SQL for real-time fleet telemetry. Integrates a Pinecone RAG pipeline with live weather APIs for context-aware supply chain risk assessments.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">👨‍💻 <a href="https://github.com/entbappy/Enterprise-IT-Support-Agentic-RAG-Copilot">Enterprise IT Support Copilot</a></h3>
+      <p align="center"><i>FastAPI, LangGraph, Tavily, Docker</i></p>
+      <br>
+      <p>Autonomous IT copilot featuring AI-as-a-Judge grading, Pinecone vector search, and Tavily web fallback. Productionized with a FastAPI backend and deployed via Docker.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">👁️ <a href="https://github.com/entbappy/Complete-Agentic-AI-Course/blob/main/Advanced-RAG/Multimodal-RAG/Build_Multimodal_RAG_NovaCore.ipynb">Multimodal Visual RAG System</a></h3>
+      <p align="center"><i>Vision LLMs, LangChain, Pinecone, PyMuPDF</i></p>
+      <br>
+      <p>End-to-end multimodal pipeline reasoning over mixed enterprise documents (text, tables, graphs, images). Routes semantic summaries to a Pinecone serverless database for accurate cross-modal responses.</p>
+    </td>
+  </tr>
+</table>
+
+---
 
 ### 🚀 Professional Highlights
 
@@ -40,25 +61,25 @@
 
 <details open>
 <summary><b>Click to toggle my Skill Stack</b></summary>
+<br>
 
-* **Languages:** `Python (Expert)`, `C++`, `SQL`, `JavaScript`
-* **AI/ML:** `PyTorch`, `TensorFlow`, `Scikit-learn`, `LLMs (Gemini, LangChain)`, `RAG`
-* **Data Engineering:** `FastAPI`, `Docker`, `MongoDB`, `AWS (EC2/S3)`, `Google Cloud Run`
-* **Electronics:** `Digital Signal Processing (DSP)`, `MEMS`, `MATLAB`
+- **Languages:** `Python (Expert)` | `C++` | `SQL` | `JavaScript`
+- **GenAI & Agents:** `LangChain` | `LangGraph` | `RAG (Multimodal)` | `Vision LLMs` | `OpenAI`
+- **AI/ML:** `PyTorch` | `TensorFlow` | `Scikit-learn` | `Predictive Modeling`
+- **Data & MLOps:** `FastAPI` | `Docker` | `Pinecone` | `MongoDB` | `AWS (EC2/S3)`
 </details>
 
 ---
 
-🌟 Featured Engineering Projects
+### 🐍 Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aarshpatel12/Aarshpatel12/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aarshpatel12/Aarshpatel12/output/github-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Aarshpatel12/Aarshpatel12/output/github-snake.svg">
+  </picture>
+</p>
 
-                            🚚 Cold-Chain Logistics AI Assistant
-     LangGraph ReAct agent translating natural language to SQL for fleet telemetry, integrated with Pinecone RAG and live weather APIs.
-
-        👨‍💻 Enterprise IT Support Copilot
-     Autonomous LangGraph IT copilot with AI-as-a-Judge grading, Pinecone vector search, and Tavily web fallback. Deployed via Docker.
-
-        👁️ Multimodal Visual RAG System
-     End-to-end multimodal pipeline reasoning over mixed enterprise documents using Vision LLMs, routing semantic summaries to Pinecone.
 ---
 
 ### 📊 GitHub Analytics
@@ -75,6 +96,6 @@
 ### 📫 Connect with me
 <p align="center">
 <a href="https://www.linkedin.com/in/aarsh-patel-083532283/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:23ec3001@rgipt.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:aarshpatel52@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://leetcode.com/u/Aarshpatel1"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
