@@ -49,16 +49,16 @@
 
 ---
 
-### 📌 Featured Projects
+🌟 Featured Engineering Projects
 
-🚚 **[Cold-Chain-Logistics-AI-Assistant-FDE-Project](https://github.com/nimowhyca/cold-chain-logistics-FDE-Project)**
-> A LangGraph-based ReAct agent translating natural language to SQL for real-time fleet telemetry. Integrates a Pinecone RAG pipeline with live weather APIs for context-aware supply chain risk assessments.
+                            🚚 Cold-Chain Logistics AI Assistant
+     LangGraph ReAct agent translating natural language to SQL for fleet telemetry, integrated with Pinecone RAG and live weather APIs.
 
-👨‍💻 **[Enterprise-IT-Support-Agentic-RAG-Copilot](https://github.com/entbappy/Enterprise-IT-Support-Agentic-RAG-Copilot)**
-> Autonomous LangGraph IT copilot featuring AI-as-a-Judge grading, Pinecone vector search, and Tavily web fallback. Productionized with a FastAPI backend and deployed via Docker to DigitalOcean.
+        👨‍💻 Enterprise IT Support Copilot
+     Autonomous LangGraph IT copilot with AI-as-a-Judge grading, Pinecone vector search, and Tavily web fallback. Deployed via Docker.
 
-👁️ **[Multimodal-Visual-RAG-System](https://github.com/entbappy/Complete-Agentic-AI-Course/blob/main/Advanced-RAG/Multimodal-RAG/Build_Multimodal_RAG_NovaCore.ipynb)**
-> End-to-end multimodal pipeline reasoning over mixed enterprise documents (text, tables, graphs, images). Uses Vision LLMs and LangChain to route semantic summaries to a Pinecone serverless database.
+        👁️ Multimodal Visual RAG System
+     End-to-end multimodal pipeline reasoning over mixed enterprise documents using Vision LLMs, routing semantic summaries to Pinecone.
 ---
 
 ### 📊 GitHub Analytics
