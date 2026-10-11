@@ -49,31 +49,16 @@
 
 ---
 
-### 🌟 Featured Engineering Projects
+### 📌 Featured Projects
 
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌾 <a href="https://github.com/Aarshpatel12/FarmFinAdvisor">FarmFinAdvisor</a></h4>
-      <p>AI-powered RAG pipeline using LangChain & ChromaDB for personalized financial recommendations. Deployed via Docker on Cloud Run.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/Aarshpatel12/DRDO-MEMS-SENSOR">DRDO MEMS Predictor</a></h4>
-      <p>Bridging Electronics and AI to predict sensor performance characteristics under Scientist ‘F’ at SSPL.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏗️ <a href="https://github.com/Aarshpatel12/KrishiSetu-Backend">KrishiSetu Backend</a></h4>
-      <p>Multi-agent system using Gemini 1.5 Flash for real-time plant disease detection and market pricing.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎬 <a href="https://github.com/Aarshpatel12/Movie-Recommender-System">Movie Recommender</a></h4>
-      <p>Content-based system using TMDB data, Cosine Similarity, and feature engineering on keywords/genres.</p>
-    </td>
-  </tr>
-</table>
+🚚 **[Cold-Chain-Logistics-AI-Assistant-FDE-Project](https://github.com/nimowhyca/cold-chain-logistics-FDE-Project)**
+> A LangGraph-based ReAct agent translating natural language to SQL for real-time fleet telemetry. Integrates a Pinecone RAG pipeline with live weather APIs for context-aware supply chain risk assessments.
 
+👨‍💻 **[Enterprise-IT-Support-Agentic-RAG-Copilot](https://github.com/entbappy/Enterprise-IT-Support-Agentic-RAG-Copilot)**
+> Autonomous LangGraph IT copilot featuring AI-as-a-Judge grading, Pinecone vector search, and Tavily web fallback. Productionized with a FastAPI backend and deployed via Docker to DigitalOcean.
+
+👁️ **[Multimodal-Visual-RAG-System](https://github.com/entbappy/Complete-Agentic-AI-Course/blob/main/Advanced-RAG/Multimodal-RAG/Build_Multimodal_RAG_NovaCore.ipynb)**
+> End-to-end multimodal pipeline reasoning over mixed enterprise documents (text, tables, graphs, images). Uses Vision LLMs and LangChain to route semantic summaries to a Pinecone serverless database.
 ---
 
 ### 📊 GitHub Analytics
